@@ -1,4 +1,4 @@
-#SPOJ Solutions Downloader
+# SPOJ Solutions Downloader
 
 A simple Python script to download all your accepted solutions on [SPOJ](https://www.spoj.com)
 
