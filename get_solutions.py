@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 from contextlib import contextmanager
 
 lang = {'C': '.c', 'C++': '.cpp', 'CPP14': '.cpp', 'JAVA': '.java',
-		'PYTHON3': '.py', 'PYPY': '.py', 'C++ 4.3.2': '.cpp', 'CPP': '.cpp'
+		'PYTHON3': '.py', 'PYPY': '.py', 'C++ 4.3.2': '.cpp', 'CPP': '.cpp',
 		'PYTHON': '.py', 'TEXT': '.txt'
 		}
 
